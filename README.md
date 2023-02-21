@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Joakim</h1>
 <h3 align="center">A extremely motivated frontend developer from Norway</h3>
 
-- 🌱 I’m currently learning more about **Svelte**
+- 🌱 I’m currently learning more about **Next.js and Sanity**
 
-- ⚡ Fun fact **On average I code over 5 hours every day.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
