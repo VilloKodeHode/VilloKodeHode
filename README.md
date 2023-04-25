@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Joakim</h1>
-<h3 align="center">A extremely motivated frontend developer from Norway</h3>
-
-- 🌱 I’m currently learning more about **Next.js and Sanity**
+<h3 align="center">A frontend developer from Norway</h3>
 
 
 <h3 align="left">Connect with me:</h3>
